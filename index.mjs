@@ -2,6 +2,8 @@ import express from 'express'
 import os from 'os'
 
 // adding status code here.
+// this is first comment from HP 
+// this is second comment from HP
 const app = express()
 const PORT = 3000
 app.get("/",(req,res)=> {
