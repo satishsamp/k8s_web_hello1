@@ -2,8 +2,8 @@ import express from 'express'
 import os from 'os'
 
 // adding status code here.
-// this is first comment from HP 
-// this is second comment from HP
+// here i am adding text from Lenovo laptop
+// this is second comment from Lenovo laptop.
 const app = express()
 const PORT = 3000
 app.get("/",(req,res)=> {
