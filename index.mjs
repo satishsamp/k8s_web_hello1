@@ -1,7 +1,7 @@
 import express from 'express'
 import os from 'os'
 
-
+// adding status code here.
 const app = express()
 const PORT = 3000
 app.get("/",(req,res)=> {
